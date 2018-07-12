@@ -8,9 +8,9 @@ sub_heading: Professor
 thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
 email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+undefined: "#721818"
 ---
-
 Kellie Brewer joined Belkirk in 2014 as a Professor of Engineering.
 
 Kellie received her Ph.D in Biomedical Engineering from Duke University in 2007. Since graduating, Kelly has worked with Randstad Engineering as Head of Research and Development in San Jose, California.
