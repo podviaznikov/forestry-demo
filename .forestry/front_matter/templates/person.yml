@@ -31,6 +31,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: color
+  config:
+    color_format: Hex
 - name: layout
   label: Layout
   type: text
