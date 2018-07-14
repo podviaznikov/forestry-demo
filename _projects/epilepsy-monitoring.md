@@ -8,7 +8,7 @@ sub_heading: A post-modern taking on Engineering in the Digital World!
 tags:
 - engineering
 - research
-slug: ''
+slug: new-slug
 
 ---
 ## Overview
